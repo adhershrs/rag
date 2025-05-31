@@ -1,0 +1,4 @@
+rag/
+vector_store/
+# Ignore the rag directory and vector_store directory
+__pycache__/
